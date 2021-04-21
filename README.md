@@ -1,5 +1,5 @@
 # CoinScrapper
-Este script obtiene información sobre varias criptomonedas mediante "web scrapping" de varios plataformas de intercambio. Esta no es la manera más eficiente de proceder puesto que varios de estas plataformas ofrecen sus propias APIs, este proyecto solo es para practicar web scrapping en varios escenarios.
+Este script obtiene información sobre varias criptomonedas mediante "web scrapping" de varias plataformas de intercambio. Esta no es la manera más eficiente de proceder puesto que varios de estas plataformas ofrecen sus propias APIs, este proyecto solo es para practicar web scrapping en varios escenarios.
 
 ## Plataformas soportadas:
 Bitso, Binance, Coinbase, Yahoo Finance
