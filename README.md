@@ -15,3 +15,13 @@ Coinbase
 Yahoo Finance:
  {'BTC-USD': '53,837.86', 'ETH-USD': '2,347.38', 'BNB-USD': '542.76', 'XRP-USD': '1.2883', 'USDT-USD': '1.0001', 'DOGE-USD': '0.3067'}
 ```
+
+### Uso
+Instala los paquetes necesarios 
+```bash
+pip install -r requirements.txt
+```
+Ejecuta el script
+```bash
+python main.py
+```
